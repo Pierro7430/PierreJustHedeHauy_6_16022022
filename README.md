@@ -10,3 +10,5 @@ Require Node JS and this modules :
 - Jsonwebtoken
 - Bcrypt
 - Multer
+- Path
+- Dotenv
