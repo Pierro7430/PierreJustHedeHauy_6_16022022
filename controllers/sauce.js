@@ -38,7 +38,7 @@ exports.modifySauce = (req, res, next) => {
                 const filename = sauce.imageUrl.split('/images/')[1];
                 fs.unlink(`images/${filename}`,function(err){
                     if(err) return console.log(err);
-                    console.log('file deleted successfully');
+                    console.log('fichier supprimé avec succès');
                 });
 
                 sauceObject = {
