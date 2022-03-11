@@ -7,9 +7,8 @@ Here are the dependancies you need to install:
 
 Then, clone this repo, run `npm install`
 
-Change the values in the file .env_EXAMPLE and rename the file : .env
+Change the values in the file .env_EXAMPLE and rename the file .env
 
 ## Usage ##
 
-readme :.env enxemple
 Run `nodemon server`
