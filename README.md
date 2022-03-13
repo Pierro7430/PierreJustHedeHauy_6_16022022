@@ -9,6 +9,8 @@ Then, clone this repo, run `npm install`
 
 Change the values in the file .env_EXAMPLE and rename the file .env
 
+Create a folder 'images' at the root to save pictures
+
 ## Usage ##
 
 Run `nodemon server`
