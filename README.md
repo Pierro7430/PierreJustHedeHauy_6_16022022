@@ -5,6 +5,8 @@ This repo Backend need repo frontend from P6 : https://github.com/OpenClassrooms
 Here are the dependancies you need to install:
 - NodeJS
 
+You need to use mongodb : https://www.mongodb.com/ and create new Database.
+
 Then, clone this repo, run `npm install`
 
 Change the values in the file .env_EXAMPLE and rename the file .env
